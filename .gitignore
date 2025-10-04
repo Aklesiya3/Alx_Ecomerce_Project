@@ -1,0 +1,10 @@
+venv/
+.env
+__pychache__/
+*.pyc   
+.DS_Store
+.idea/
+*.sqlite3        
+db.sqlite3      
+*.log
+*.pot       
