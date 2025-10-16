@@ -1,0 +1,7 @@
+Django>=5.2.7
+djangorestframework
+djoser
+djangorestframework-simplejwt
+python-dotenv
+Pillow
+whitenoise
